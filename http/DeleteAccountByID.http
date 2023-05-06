@@ -1,0 +1,4 @@
+DELETE http://{{url}}:{{port}}/account/2
+Accept: application/json
+
+###

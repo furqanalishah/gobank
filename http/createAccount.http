@@ -1,0 +1,9 @@
+POST http://{{url}}:{{port}}/account
+Content-Type: application/json
+
+{
+  "firstName": "syed furqan",
+  "lastName": "ali shah"
+}
+
+###

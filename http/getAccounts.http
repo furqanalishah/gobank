@@ -1,0 +1,4 @@
+GET http://{{url}}:{{port}}/account
+Accept: application/json
+
+###
